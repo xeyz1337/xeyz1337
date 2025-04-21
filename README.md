@@ -1,4 +1,4 @@
-# 👋 Hello
+# 👋
 
 ### 🔧 Meine Skills
 - **Frontend**: HTML, CSS, JavaScript, TypeScript  
